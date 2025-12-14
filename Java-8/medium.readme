@@ -1,0 +1,16 @@
+part 1
+------
+SortEmpBasedOnSalary
+AvgAgeOfEmp
+PartitionEvenOdd
+GroupByLength
+CountOccurrence
+GroupByDeptAndAvg
+
+part2
+-----
+HighestPaidEmpInEachDepartment
+AllDepartmentMoreThanEqualTo2Emp
+DepartmentWithHighestAvgSalary
+MostFrequentCharInString
+FirstNonRepeatCharInString
